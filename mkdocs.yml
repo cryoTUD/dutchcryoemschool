@@ -4,7 +4,7 @@ site_author: Arjen Jakobi
 site_description: >-
   Dutch Cryo-EM School
 # Repository
-repo_name: cryoTUD/locscale
+repo_name: dutchcryoemschool
 repo_url: https://github.com/cryotud/dutchcryoemschool
 
 # Copyright
@@ -82,7 +82,7 @@ extra:
 
 nav:
   - About: index.md
-  - Program: install.md
+  - Program: program.md
   - Registration: registration.md
 
 plugins:
