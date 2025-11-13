@@ -1,5 +1,6 @@
-# Dutch Cryo-EM School 2026
+![sponsors](imgs/banner.jpg){width=900}
 
+#
 ### Overview
 
 <div style="text-align: justify">
