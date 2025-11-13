@@ -20,7 +20,6 @@ The Dutch Cryo-EM School will take place from <b>29 June to 04 July 2026</b> in 
     There are no registration fees for participants from academia. The program includes lunch/coffee on all course days, and the course dinner on Wednesday 05 June. Transportation to and from the venues, and accommodation, are not included in the school and need to be arranged by the participants.
 
 ---
-<br>
 #### Sponsored by
 
 ![sponsors](imgs/sponsors.jpg){height=100}
