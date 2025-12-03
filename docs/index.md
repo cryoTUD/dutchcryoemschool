@@ -14,7 +14,7 @@ The Dutch Cryo-EM School will take place from <b>29 June to 04 July 2026</b> in 
     {==For selection purposes, please note that your application will not be considered without motivation==}. 
     <br>
     
-    During registration, please provide a brief motivation (max. 300 words) including a short description of your project, your level of prior experience with cryo-EM/ET and how you and your project will benefit from this school. You will also need to provide the name of your PI. Selected participants will be informed approximately 1-2 weeks after the application deadline on __23 March 2026__. <br> 
+    During registration, please provide a brief motivation (max. 300 words) including a short description of your project, your level of prior experience with cryo-EM/ET and how you and your project will benefit from this school. You will also need to provide the name of your PI. Selected participants will be informed approximately 1-2 weeks after the application deadline on __01 April 2026__. <br> 
 
     <u>__Registrations fees__:</u><br> 
     There are no registration fees for participants from academia. The program includes lunch/coffee on all course days, and the course dinner on Wednesday 05 June. Transportation to and from the venues, and accommodation, are not included in the school and need to be arranged by the participants.
