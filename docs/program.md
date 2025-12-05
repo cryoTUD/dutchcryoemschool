@@ -3,7 +3,7 @@
     | -------     | :------:                                            | :---------                                   | :-------  |
     | 09:45-10:00 | __Tzviya, Ludo, Arjen__ <br>                        | _Welcome_                                    | UL, Gorlaeus <br>EM 1.09 |
     | 10:00-11:00 | __?Jürgen Plitzko?__ <br > MPI Martinsried          | _Introduction to Electron Optics_            | UL, Gorlaeus <br> EM 1.09 |
-    | 11:00-12:00 | __?Oliver Raschdorf?__ <br> Thermo Fisher Scientific| _Energy filters and detectors_               | UL, Gorlaeus <br> EM 1.09 |
+    | 11:00-12:00 | __Oliver Raschdorf__ <br> Thermo Fisher Scientific  | _Energy filters and detectors_               | UL, Gorlaeus <br> EM 1.09 |
     | 12:00-13:00 |                                                     | __Lunch break__                              | UL, Gorlaeus <br> EM 1.09 |
     | 13:00-13:45 | __Willem Noteborn__  <br> Leiden University         | _Facility tour_                              | UL, Gorlaeus <br> NeCEN   |
     | 13:45-15:15 | <span style="color:#048ebd"><b>Practical session</b></span>  | _Microscope alignement and session setup_    | UL, Gorlaeus <br> NeCEN   |
@@ -49,7 +49,7 @@
     | 11:15-12:15 | __Tom Burnley__ <br > UKRI-STFC                     | _Introduction to CCP-EM Doppio_              | TUD, Bld. 58 <br>Kronigzaal |
     | 12:45-13:45 |                                                     | __Lunch break__                              | TUD, Bld. 58 <br>Kronigzaal |
     | 13:45-15:30 | <span style="color:#048ebd"><b>Practical session</b></span>  | _SPA data processing_               | TUD, Bld. 58 <br>Kronigzaal |
-    | 15:30-16:00 |                                                     | __Coffee with Break(ing Questions)_          | TUD, Bld. 58 <br>Kronigzaal |
+    | 15:30-16:00 |                                                     | __Coffee with Break(ing Questions)__          | TUD, Bld. 58 <br>Kronigzaal |
     | 16:00-18:00 | <span style="color:#048ebd"><b>Practical session</b></span>  | _SPA data processing_               | TUD, Bld. 58 <br>Kronigzaal |
 
 === "Friday 03-07"
@@ -63,7 +63,7 @@
     | 13:30-14:30 | <span style="color:#048ebd"><b>Practical session</b></span>  | _SPA data processing continued_     | TUD, Bld. 58 <br>Kronigzaal |
     | 14:30-15:00 | __Tom Burnley__ <br > UKRI-STFC                     | _Atomic model building tools in CCP-EM_      | TUD, Bld. 58 <br>Kronigzaal |
     | 15:00-15:30 | __????__ <br > UKRI-STFC                            | _Model building in Coot/Moorhen_             | TUD, Bld. 58 <br>Kronigzaal |
-    | 15:30-16:00 |                                                     | __Coffee with Break(ing Questions)_          | TUD, Bld. 58 <br>Kronigzaal |
+    | 15:30-16:00 |                                                     | __Coffee with Break(ing Questions)__          | TUD, Bld. 58 <br>Kronigzaal |
     | 16:00-18:00 | <span style="color:#048ebd"><b>Practical session</b></span>  | _Model building tutorial_           | TUD, Bld. 58 <br>Kronigzaal |
 
 === "Saturday 04-07"
