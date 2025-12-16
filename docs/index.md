@@ -1,4 +1,4 @@
-![sponsors](imgs/banner.jpg){width=900}
+![sponsors](imgs/banner_nl.jpg){width=900}
 
 #
 ### Overview
